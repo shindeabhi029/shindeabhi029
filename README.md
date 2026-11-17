@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**shindeabhi029/shindeabhi029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Final-year B.Tech Mechatronics student (minor in Computer Science & IT) at Rajarambapu Institute of Technology, Maharashtra, India.
+I like building automation and embedded products that real people actually use. I'm now working towards drone and UAV autonomy.
+What I work with
+Automation: PLC (RSLogix 5000), ladder logic, SCADA/DCS basics
+Embedded & IoT: Arduino, microcontrollers, sensors, motor control
+Programming: C, Python (basic), MATLAB
+Writing: technical documentation
+Projects
+Automatic Paper Dispensing Machine (UPI payments): a vending machine with dynamic UPI QR payments, installed in my department for students to use. I worked on the payment integration.
+Smart Car Parking System: shows real-time parking availability.
+Stair Climbing Robot: a mechanism designed to climb stairs.
+Hydroponic Farming System: soil-less farming with automated nutrient and water control.
+Currently learning
+PX4 / ArduPilot simulation for autonomous drones
+ROS 2 basics
+STM32 and ESP32 firmware
+Looking for
+Internships and entry-level roles in industrial automation, embedded systems, and UAV autonomy.
+Connect
+LinkedIn
