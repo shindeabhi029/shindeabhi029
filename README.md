@@ -16,5 +16,3 @@ ROS 2 basics
 STM32 and ESP32 firmware
 Looking for
 Internships and entry-level roles in industrial automation, embedded systems, and UAV autonomy.
-Connect
-LinkedIn
